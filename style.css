@@ -246,6 +246,7 @@ img {
       height: 5px;
       background-color: #fff;
       border-radius: 10px;
+      transition: transform ease 250ms;
    }
    .header__burger.active span {
       opacity: 0;
